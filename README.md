@@ -95,7 +95,7 @@ The next professional improvements are to add `requirements.txt`, convert repeat
 
 ## Maintainer
 
-[Ahmed Osrof](https://github.com/Ahmedosrf)
+
 
 ## License and Responsible Use
 
